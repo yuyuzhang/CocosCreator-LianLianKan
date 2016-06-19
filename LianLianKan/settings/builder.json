@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "com.yuyuzhang.lianliankan",
+  "startScene": "ed926606-8865-4174-ae33-d7459f1a5920",
+  "title": "LianLianKan",
+  "webOrientation": "auto"
+}
